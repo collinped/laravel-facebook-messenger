@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Collinped\FacebookMessenger\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class FacebookMessengerCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-facebook-messenger';
 
     public $description = 'My command';
 
